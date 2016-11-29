@@ -70,7 +70,7 @@ video#bgvid {
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    background: url('http://placecage.com/1920/1080') no-repeat;
+    background: url('//placecage.com/1920/1080') no-repeat;
     background-size: cover;
     overflow: hidden;
 }
