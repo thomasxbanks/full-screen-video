@@ -6,10 +6,12 @@ body {
     padding: 0;
     margin: 0;
     overflow-x: hidden;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Anonymous Pro", Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 16px;
 }
-
+h1 {
+  font-family: "Oswald", Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
 .hero_wrapper {
     position: relative;
     display: block;
