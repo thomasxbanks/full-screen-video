@@ -1,0 +1,4 @@
+# Ignore the actual video files
+## Don't forget to change the URLs to the videos in the index.html!
+*.mp4
+*.webm
